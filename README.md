@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SepDev7
+- 👋 Hi, I’m Sepehr
 - 👀 I’m interested in working on API projects and other backend python/django projects.
 - 🌱 I’m currently learning more and more about api's and anything usefull and relative to backend development.
 - 💞️ I’m looking to collaborate on any project that is related to python/django.
