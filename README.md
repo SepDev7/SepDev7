@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sepehr
 - 👀 I’m interested in working on API projects and other backend python/django projects.
-- 🌱 I’m currently learning more and more about api's and anything usefull and relative to backend development.
+- 🌱 I’m currently learning more about anything usefull and relative to backend development.
 - 💞️ I’m looking to collaborate on any project that is related to python/django.
 - 📫 How to reach me: On telegram with [@SepehrS7](https://t.me/SepehrS7)
 - 😄 Pronouns: He/Him
