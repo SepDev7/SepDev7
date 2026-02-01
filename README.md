@@ -1,12 +1,44 @@
-- 👋 Hi, I’m Sepehr
-- 👀 I’m interested in working on API projects and other backend python/django projects.
-- 🌱 I’m currently learning more about anything usefull and relative to backend development.
-- 💞️ I’m looking to collaborate on any project that is related to python/django.
-- 📫 How to reach me: On telegram with [@SepehrS7](https://t.me/SepehrS7)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a chess tutor for around 4 years and also I've been a barista for 3 years! and I love to learn new things and keep up with new tech.
+## 👋 Hi, I’m Sepehr
 
-<!---
-SepDev7/SepDev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💻 Backend Python / Django Developer
+
+I’m a backend-focused developer with hands-on experience building **scalable backend systems**, **RESTful APIs**, and **data-driven applications** using **Python and Django**. I enjoy working close to the core of systems — architecture, performance, reliability, and clean integrations.
+
+---
+
+### 🔧 What I work with
+- **Backend:** Python, Django, Django REST Framework, REST APIs  
+- **Databases:** PostgreSQL, SQL, Redis  
+- **Infrastructure:** Docker, Linux  
+- **AI & Modern Systems:** AI Agents, MCP Servers, Retrieval-Augmented Generation (RAG)  
+- **Platforms:** Odoo (E-commerce & POS), payment and inventory workflows  
+- **Frontend (supportive):** React.js (island-based components), HTML, CSS  
+- **Quality & Reliability:** Functional testing, debugging, system validation  
+
+---
+
+### 🌱 Currently
+- Deepening my backend expertise in **scalable architectures and AI-powered backend components**
+- Improving system design, performance, and integration patterns
+
+---
+
+### 🤝 Open to collaboration
+I’m interested in collaborating on:
+- **Python / Django backend projects**
+- API-driven platforms
+- E-commerce, POS, or data-heavy systems
+- Backend components that integrate AI or automation
+
+---
+
+### 📫 How to reach me
+- Telegram: [@SepehrS7](https://t.me/SepehrS7)
+- GitHub: https://github.com/SepDev7
+
+---
+
+### ⚡ Fun facts
+- ♟️ Chess tutor for ~4 years  
+- ☕ Barista for 3 years  
+- 🚀 I enjoy learning new technologies and keeping up with modern backend and platform trends
